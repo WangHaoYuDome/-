@@ -1,0 +1,55 @@
+{
+    "list":[
+        {
+            "stu":"热销榜"
+        },
+        {
+            "stu":"单人精彩套餐"
+        },
+        {
+            "stu":"精选热菜"
+        },
+        {
+            "stu":"爽口凉菜"
+        },
+        {
+            "stu":"精选套餐"
+        },
+        {
+            "stu":"果拼果汁"
+        },
+        {
+            "stu":"小吃主食"
+        }
+    ],
+    "data":[
+        {
+            "img":"http://localhost:8080/img/1.png",
+            "title":"皮蛋瘦肉粥",
+            "tag":"月售229份  好评率100%",
+            "prse":"10",
+            "show":false
+        },
+        {
+            "img":"http://localhost:8080/img/1.png",
+            "title":"扁豆焖面",
+            "tag":"月售188份  好评率96%",
+            "prse":"14",
+            "show":false
+        },
+        {
+            "img":"http://localhost:8080/img/1.png",
+            "title":"葱花饼",
+            "tag":"月售124份  好评率85%",
+            "prse":"10",
+            "show":false
+        },
+        {
+            "img":"http://localhost:8080/img/1.png",
+            "title":"牛肉馅饼",
+            "tag":"月售114份  好评率91%",
+            "prse":"14",
+            "show":false
+        }
+    ]
+}
